@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 28px;
+    color: darkmagenta;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.note{
+    font-size: 23px;
+    color: indigo;
+}
+
+.div_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+canvas {
+    border-radius: 10px;
+    border: 5px solid cornflowerblue;
+    margin-top: 200px;
+    box-shadow: 0px 0px 50px cyan;
+}
+
+#song_name {
+    border: 5px dashed darkred;
+    font-style: italic;
+    font-weight: bold;
+    box-shadow:10px 10px 15px chocolate ;
+    padding: 3px;
+    margin-top: 5px;
+}
